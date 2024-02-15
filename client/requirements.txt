@@ -1,0 +1,4 @@
+wxpython
+requests
+python-socketio
+pygame
