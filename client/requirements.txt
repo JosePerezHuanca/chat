@@ -2,3 +2,4 @@ wxpython
 requests
 python-socketio
 pygame
+cytolk
