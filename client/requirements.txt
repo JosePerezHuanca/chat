@@ -3,3 +3,4 @@ requests
 python-socketio
 pygame
 cytolk
+websocket-client
